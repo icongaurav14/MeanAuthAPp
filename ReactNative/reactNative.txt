@@ -1,0 +1,11 @@
+react native apps are not hybrid apps
+do not run in a webview
+faster than cordova, phonegap, ionic
+
+cross Platform(works for android and ios)
+open source
+
+npm install -g react-native-cli
+npm install -g yarn
+
+react-native init myApp
